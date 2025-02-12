@@ -3,7 +3,7 @@ import axios from "axios";
 import toast from "react-hot-toast";
 
 // Define the base URL for the API
-const url: string = "https://task-management-two-steel.vercel.app";
+const url: string = "https://edgistify-gamma.vercel.app/";
 
 
 // Define the types for the state

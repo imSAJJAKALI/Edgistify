@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk, PayloadAction } from "@reduxjs/toolkit";
 import axios from "axios";
 import toast from "react-hot-toast";
 
-const url:String= "https://task-management-two-steel.vercel.app";
+const url:String= "https://edgistify-gamma.vercel.app/";
 
 // Define the types for the state
 interface AuthState {
